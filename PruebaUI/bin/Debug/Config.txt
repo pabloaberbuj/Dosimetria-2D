@@ -1,0 +1,3 @@
+TamROI=20
+AnchoPerfil=10
+Ultima modificación: 12/01/2017
