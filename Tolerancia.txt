@@ -1,0 +1,7 @@
+TolDosisCentral=3
+TolPlaniX=2
+TolSimX=2
+TolTamX=0.2
+TolPlaniY=2
+TolSimY=2
+TolTamY=0.2

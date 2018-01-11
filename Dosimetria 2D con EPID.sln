@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dosimetria 2D con EPID", "PruebaUI\Dosimetria 2D con EPID.csproj", "{44F9EC17-BB99-4252-8C1C-E654D7974F0A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dosimetria2D_Instalador", "Dosimetria2D_Instalador\Dosimetria2D_Instalador.vdproj", "{B39A8B0F-DC12-4725-9E2D-53C17BB2130E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44F9EC17-BB99-4252-8C1C-E654D7974F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F9EC17-BB99-4252-8C1C-E654D7974F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F9EC17-BB99-4252-8C1C-E654D7974F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F9EC17-BB99-4252-8C1C-E654D7974F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39A8B0F-DC12-4725-9E2D-53C17BB2130E}.Debug|Any CPU.ActiveCfg = Debug
+		{B39A8B0F-DC12-4725-9E2D-53C17BB2130E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

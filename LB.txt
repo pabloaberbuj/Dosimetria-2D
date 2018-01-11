@@ -1,0 +1,7 @@
+LBDosisCentral=0.35
+LBPlaniX=0.6
+LBSimX=0
+LBTamX=0
+LBPlaniY=0
+LBSimY=0
+LBTamY=0

@@ -1,0 +1,2 @@
+TamROI=20
+AnchoPerfil=10
